@@ -13,6 +13,7 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
     print(f"{name} says, {intro}")
+    print("Bye world!")
 
 if __name__ == "__main__":
     main()

@@ -8,6 +8,7 @@ The script asks the user to input the numbers and the operation to be performed,
 and prints the result to the terminal window.
 
 Added a fix ---
+Added another fix ---
 
 """
 
